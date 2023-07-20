@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heldermendoncajr
 - 👀 I’m interested in UX/UI
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning front-end web development (Figma, Html, css, Js, React)
 - 💞️ I’m looking to collaborate on beautiful and functional web pages
 - 📫 How to reach me hjbmjr@gmail.com
 
